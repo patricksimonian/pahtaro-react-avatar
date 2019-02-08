@@ -1,7 +1,7 @@
 {
-  "name": "react-avatar",
+  "name": "@pahtaro/react-avatar",
   "version": "3.5.0",
-  "description": "Universal React avatar component makes it possible to generate avatars based on user information.",
+  "description": "Universal React avatar component makes it possible to generate avatars based on user information. --This is a fork of react-avatar-- If you would like to support this project please fork and pr the original repo",
   "main": "lib/index.js",
   "module": "es/index.js",
   "types": "index.d.ts",
@@ -24,7 +24,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sitebase/react-avatar.git"
+    "url": "https://github.com/patricksimonian/pahtaro-react-avatar.git"
   },
   "author": "Wim Mostmans <wim@sitebase.be>",
   "bugs": {
